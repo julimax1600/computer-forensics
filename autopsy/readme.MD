@@ -14,4 +14,8 @@
 ## we create the imagen
 
         sudo dd if=/dev/sdb of=/route/of/the/image.img bs=4M
+        
+## now we create a virtual machine with kalilinux and we take the image there
 
+
+<img src="https://user-images.githubusercontent.com/131694378/235358942-921e1b95-d3ba-4bfe-a6d4-7ecac6e07461.png" width="600" height="350">
