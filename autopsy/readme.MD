@@ -25,4 +25,6 @@
 
 ### open autopsy in applications and open the link in a browser http://localhost:9999/autopsy
 
-###
+### within the application we add a new case and complete the fields
+
+### add the image 
