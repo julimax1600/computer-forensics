@@ -10,19 +10,19 @@
 
 ---
 
-## /var/log/syslog
+     /var/log/syslog
 
 #### This file logs a variety of system events, such as kernel errors, debugging messages, and other important events. If an attacker tries to access protected resources, this will be recorded in this file.
 
 ---
 
-## /var/log/apache2/access.log and /var/log/apache2/error.log
+     /var/log/apache2/access.log and /var/log/apache2/error.log
 
 #### These files record events related to the Apache web server, such as resource requests and server errors. If an attacker tries to perform a denial of service attack or tries to access protected resources on the web server, this will be recorded in these files.
 
 ---
 
-## /var/log/auth.log and /var/log/syslog
+      /var/log/auth.log and /var/log/syslog
 
 #### These files log events related to the SSH server, such as failed login attempts and established connections. If an attacker tries to access the system via SSH, this will be recorded in these files.
 
