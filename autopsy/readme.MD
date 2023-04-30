@@ -13,5 +13,5 @@
 
 ## we create the imagen
 
-        sudo dd if=/dev/sdb of=/ruta/de/la/imagen.img bs=4M
+        sudo dd if=/dev/sdb of=/route/of/the/image.img bs=4M
 
