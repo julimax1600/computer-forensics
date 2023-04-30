@@ -19,3 +19,7 @@
 
 
 <img src="https://user-images.githubusercontent.com/131694378/235358942-921e1b95-d3ba-4bfe-a6d4-7ecac6e07461.png" width="600" height="350">
+
+## open autopsy in applications and open the link in a browser http://localhost:9999/autopsy
+
+##
