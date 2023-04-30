@@ -34,10 +34,9 @@
 
 <img src="https://user-images.githubusercontent.com/131694378/235367027-b60fa5a6-de39-4e7c-8396-ebd5d3ee9981.png" width="600" height="350">
 
-### Here we can analyze the files on the disk, records, history, etc.
+### here we can analyze the files on the disk, records, deleted files, history, etc.
 
-<img src="https://user-images.githubusercontent.com/131694378/235367193-b4bcd2f2-8b6e-4c7c-8ff4-42ac5975eb8b.png" width="600" height="350">
-
+<img src="https://user-images.githubusercontent.com/131694378/235367267-23413e98-4075-43c6-bf9c-80380d96a1d3.png" width="600" height="350">
 
 
 
