@@ -10,3 +10,8 @@
   
 
 <img src="https://user-images.githubusercontent.com/131694378/235357455-3138ab2d-b0b9-4821-b07b-a351f3b1bf16.png" width="600" height="350">
+
+## we create the imagen
+
+        sudo dd if=/dev/sdb of=/ruta/de/la/imagen.img bs=4M
+
