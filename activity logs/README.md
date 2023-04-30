@@ -12,7 +12,7 @@
 
      /var/log/syslog and var/log/kern.log
 
-#### These files logs a variety of system events, such as kernel errors, debugging messages, and other important events. If an attacker tries to access protected resources, this will be recorded in this file. These files logs a variety of system events, such as kernel errors, debugging messages, and other important events.
+#### These files logs a variety of system events, such as kernel errors, debugging messages, and other important events. If an attacker tries to access protected resources. 
 
 ---
 
