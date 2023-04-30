@@ -6,13 +6,13 @@
 
      /var/log/auth.log
 
-#### This file logs login attempts and changes to authentication settings. If an attacker tries to log in to the system or tries to modify the authentication settings, this will be logged in the file.
+#### This file log events related to the SSH server, such as failed login attempts and established connections. If an attacker tries to access the system via SSH, this will be recorded in these files.
 
 ---
 
-     /var/log/syslog
+     /var/log/syslog and var/log/kern.log
 
-#### This file logs a variety of system events, such as kernel errors, debugging messages, and other important events. If an attacker tries to access protected resources, this will be recorded in this file.
+#### These files logs a variety of system events, such as kernel errors, debugging messages, and other important events. If an attacker tries to access protected resources, this will be recorded in this file. These files logs a variety of system events, such as kernel errors, debugging messages, and other important events.
 
 ---
 
@@ -22,9 +22,9 @@
 
 ---
 
-      /var/log/auth.log and /var/log/syslog
-
-#### These files log events related to the SSH server, such as failed login attempts and established connections. If an attacker tries to access the system via SSH, this will be recorded in these files.
+     /var/log/ufw.log
+     
+#### Firewall logs can provide information about what type of traffic was blocked and when the blocks occurred
 
 ---
 
