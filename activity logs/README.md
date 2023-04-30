@@ -27,3 +27,5 @@
 #### These files log events related to the SSH server, such as failed login attempts and established connections. If an attacker tries to access the system via SSH, this will be recorded in these files.
 
 ---
+
+### It's important to note that while activity logs are a valuable tool for identifying and fixing problems, they're not perfect. Sophisticated attackers may attempt to delete or modify activity logs to hide their activity. Therefore, it is important to have other layers of security, such as firewalls and intrusion detection systems, to complement the information recorded in activity logs.
