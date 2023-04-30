@@ -26,5 +26,6 @@
 
 ### within the application we add a new case and complete the fields, then add the image
 
-<img src="https://user-images.githubusercontent.com/131694378/235366559-77131d65-4b6b-4ea8-9e84-b1af2de5aa2f.png" width="600" height="350">
+<img src="https://user-images.githubusercontent.com/131694378/235366664-f55c5564-a593-47a8-86e7-3b7614fb1245.png" width="600" height="350">
+
 
