@@ -4,7 +4,7 @@
 
 ---
 
-## /var/log/auth.log
+     /var/log/auth.log
 
 #### This file logs login attempts and changes to authentication settings. If an attacker tries to log in to the system or tries to modify the authentication settings, this will be logged in the file.
 
