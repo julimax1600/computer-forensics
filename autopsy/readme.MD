@@ -30,4 +30,9 @@
 
 <img src="https://user-images.githubusercontent.com/131694378/235366664-f55c5564-a593-47a8-86e7-3b7614fb1245.png" width="600" height="350">
 
+### select the newly created file of type ext and then click analyze
+
+<img src="https://user-images.githubusercontent.com/131694378/235367027-b60fa5a6-de39-4e7c-8396-ebd5d3ee9981.png" width="600" height="350">
+
+
 
