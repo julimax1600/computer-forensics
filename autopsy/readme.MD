@@ -24,7 +24,7 @@
 
 ### open autopsy in applications and open the link in a browser http://localhost:9999/autopsy
 
-<img src="hhttps://user-images.githubusercontent.com/131694378/235366709-42591888-3174-48c3-a741-ac3d13459a2b.png" width="600" height="350">
+<img src="https://user-images.githubusercontent.com/131694378/235366709-42591888-3174-48c3-a741-ac3d13459a2b.png" width="600" height="350">
 
 ### within the application we add a new case and complete the fields, then add the image
 
